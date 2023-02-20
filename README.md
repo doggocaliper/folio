@@ -1,1 +1,2 @@
-# folio
+# folio 1F926
+\U0001F926
